@@ -1,5 +1,5 @@
 # Hi 👋 
-- Hi, i am Fernando & from brazil, I am currently a developer by hobby and work. I'm a programming student, and I'm always trying to learn new languages, currently I work more on the Web.
+- Hi, i am Fernando & from Brazilian, I am currently a developer by hobby and work. I'm a programming student, and I'm always trying to learn new languages, currently I work more on the Web.
 
 <div>
     <h2>🔧 Techs:</h2>
