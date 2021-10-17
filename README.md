@@ -17,3 +17,4 @@
 
 
 ![Github Stats Kyosh1](https://github-readme-stats.vercel.app/api?username=kyosh1&show_icons=true&theme=dark)
+![Github TopLangs Kyosh1](https://github-readme-stats.vercel.app/api/top-langs/?username=kyosh1&show_icons=true&theme=dark)
